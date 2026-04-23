@@ -1,32 +1,33 @@
 # 🌿 About Me
 
-Hi, I'm Gayatri  
+Hi, I'm Gayatri 👩‍💻  
 A Computer Science Engineering student focused on building thoughtful, efficient systems.
 
-I work across iOS development, backend systems, and data-driven applications, with a strong interest in performance and clean design.
+I enjoy working across **iOS development, backend systems, and data-driven applications**, with a strong interest in performance and clean design.
 
-- Currently building iOS apps using Swift & SwiftUI  
-- Strong foundation in DSA, system design, and databases  
-- Hands-on with real-world projects across web and systems  
-- Exploring scalable architectures and user-centric design  
-- Open to collaborations and meaningful open-source work  
+- 📱 Currently building iOS apps using Swift & SwiftUI  
+- 🧠 Strong foundation in DSA, system design, and databases  
+- 🛠️ Hands-on with real-world projects across web and systems  
+- 🌱 Exploring scalable architectures and user-centric design  
+- 🤝 Open to collaborations and meaningful open-source work  
+
 
 ---
 
-## Connect
+## 🌱 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d6a4f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayatrigoundadkar/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d6a4f?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gayatrigoundadkar)
 [![Email](https://img.shields.io/badge/Email-52796f?style=flat&logo=gmail&logoColor=white)](mailto:gayatrigoundadkar@gmail.com)
 
 ---
 
-## Tech Stack
+## 🌾 Tech Stack
 
 **Languages**  
 `C++` `Python` `Java` `JavaScript`
 
 **iOS & Frontend**  
-`Swift` `SwiftUI` `React` `HTML` `CSS`
+`Swift` `SwiftUI` `React` `HTML/CSS`
 
 **Backend & Databases**  
 `Flask` `MySQL` `SQL Server`
@@ -35,11 +36,11 @@ I work across iOS development, backend systems, and data-driven applications, wi
 `Pandas` `NumPy` `Matplotlib` `TensorFlow` `PyTorch`
 
 **Tools & Design**  
-`Figma` `Canva` `Adobe After Effects`
+`Figma` `Canva` `Adobe AE`
 
 ---
 
-## GitHub Stats
+## 🌲 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=gayatrigxg&theme=forest&hide_border=true&include_all_commits=false&count_private=false)
 
@@ -49,6 +50,8 @@ I work across iOS development, backend systems, and data-driven applications, wi
 
 ---
 
-## Note
+## 🍃 A Thought I Like
 
-Good systems are not just built to work — they are built to last.
+> “Good systems are not just built to work — they are built to last.”
+
+---
