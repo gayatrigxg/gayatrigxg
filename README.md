@@ -5,11 +5,11 @@ A Computer Science Engineering student focused on building thoughtful, efficient
 
 I enjoy working across **iOS development, backend systems, and data-driven applications**, with a strong interest in performance and clean design.
 
-- 📱 Currently building iOS apps using Swift & SwiftUI  
-- 🧠 Strong foundation in DSA, system design, and databases  
-- 🛠️ Hands-on with real-world projects across web and systems  
-- 🌱 Exploring scalable architectures and user-centric design  
-- 🤝 Open to collaborations and meaningful open-source work  
+-  Currently building iOS apps using Swift & SwiftUI  
+-  Strong foundation in DSA, system design, and databases  
+-  Hands-on with real-world projects across web and systems  
+-  Exploring scalable architectures and user-centric design  
+-  Open to collaborations and meaningful open-source work  
 
 
 ---
@@ -21,7 +21,7 @@ I enjoy working across **iOS development, backend systems, and data-driven appli
 
 ---
 
-## 🌾 Tech Stack
+## Tech Stack
 
 **Languages**  
 `C++` `Python` `Java` `JavaScript`
